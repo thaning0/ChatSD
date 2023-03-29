@@ -1,0 +1,6 @@
+gradio
+openai
+numpy
+tiktoken
+Pillow
+requests
